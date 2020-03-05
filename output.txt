@@ -1,0 +1,13 @@
+Elapsed time: 0.624313288
+
+---new tree---
+
+Outlook = Sunny
+|----Humidity = High : No
+|----Humidity = Normal : Si
+Outlook = Overcast : Si
+Outlook = Rain
+|----Wind = Weak : Si
+|----Wind = Strong : No
+
+---end tree---
