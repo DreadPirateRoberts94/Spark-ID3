@@ -1,0 +1,157 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="88ac800f-d1a3-4294-8d37-fa6d21a65d28" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CodeStyleSettingsInfer">
+    <option name="done" value="true" />
+  </component>
+  <component name="ExternalProjectsData">
+    <projectState path="$PROJECT_DIR$">
+      <ProjectState />
+    </projectState>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Scala Worksheet" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectCodeStyleSettingsMigration">
+    <option name="version" value="1" />
+  </component>
+  <component name="ProjectId" id="1YoTfRtWGg84OofPwLlcBuglTkH" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="project.structure.last.edited" value="Libraries" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.25287357" />
+  </component>
+  <component name="RunManager">
+    <configuration name="ID3" type="Application" factoryName="Application" temporary="true">
+      <option name="MAIN_CLASS_NAME" value="id3.ID3" />
+      <module name="portoIterSeq" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="id3.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.ID3" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SbtLocalSettings">
+    <option name="availableProjects">
+      <map>
+        <entry>
+          <key>
+            <ExternalProjectPojo>
+              <option name="name" value="portoIterSeq" />
+              <option name="path" value="$PROJECT_DIR$" />
+            </ExternalProjectPojo>
+          </key>
+          <value>
+            <list>
+              <ExternalProjectPojo>
+                <option name="name" value="portoiterseq [file:/home/luigi/IdeaProjects/portoIterSeq/]" />
+                <option name="path" value="$PROJECT_DIR$" />
+              </ExternalProjectPojo>
+              <ExternalProjectPojo>
+                <option name="name" value="portoIterSeq-build" />
+                <option name="path" value="$PROJECT_DIR$/project" />
+              </ExternalProjectPojo>
+            </list>
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="modificationStamps">
+      <map>
+        <entry key="$PROJECT_DIR$" value="3167216100000" />
+        <entry key="$PROJECT_DIR$/build.sbt" value="594546273" />
+        <entry key="$PROJECT_DIR$/project/build.properties" value="1244562550" />
+      </map>
+    </option>
+    <option name="projectSyncType">
+      <map>
+        <entry key="$PROJECT_DIR$/../portoID3" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$" value="RE_IMPORT" />
+      </map>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="88ac800f-d1a3-4294-8d37-fa6d21a65d28" name="Default Changelist" comment="" />
+      <created>1583608050363</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1583608050363</updated>
+      <workItem from="1583941547273" duration="808000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="566" y="220" width="524" height="484" key="#com.intellij.codeInsight.editorActions.RestoreReferencesDialog" timestamp="1583608779401">
+      <screen x="67" y="27" width="1533" height="873" />
+    </state>
+    <state x="566" y="220" width="524" height="484" key="#com.intellij.codeInsight.editorActions.RestoreReferencesDialog/67.27.1533.873@67.27.1533.873" timestamp="1583608779401" />
+    <state x="473" y="309" key="#com.intellij.ide.util.projectWizard.JdkChooserPanel.MyDialog" timestamp="1583941575441">
+      <screen x="0" y="23" width="1280" height="777" />
+    </state>
+    <state x="473" y="309" key="#com.intellij.ide.util.projectWizard.JdkChooserPanel.MyDialog/0.23.1280.777@0.23.1280.777" timestamp="1583941575441" />
+    <state width="1487" height="469" key="GridCell.Tab.0.bottom" timestamp="1583664544063">
+      <screen x="67" y="27" width="1533" height="873" />
+    </state>
+    <state width="1487" height="469" key="GridCell.Tab.0.bottom/67.27.1533.873@67.27.1533.873" timestamp="1583664544063" />
+    <state width="1487" height="469" key="GridCell.Tab.0.center" timestamp="1583664544061">
+      <screen x="67" y="27" width="1533" height="873" />
+    </state>
+    <state width="1487" height="469" key="GridCell.Tab.0.center/67.27.1533.873@67.27.1533.873" timestamp="1583664544061" />
+    <state width="1487" height="469" key="GridCell.Tab.0.left" timestamp="1583664544060">
+      <screen x="67" y="27" width="1533" height="873" />
+    </state>
+    <state width="1487" height="469" key="GridCell.Tab.0.left/67.27.1533.873@67.27.1533.873" timestamp="1583664544060" />
+    <state width="1487" height="469" key="GridCell.Tab.0.right" timestamp="1583664544062">
+      <screen x="67" y="27" width="1533" height="873" />
+    </state>
+    <state width="1487" height="469" key="GridCell.Tab.0.right/67.27.1533.873@67.27.1533.873" timestamp="1583664544062" />
+    <state x="128" y="23" key="SettingsEditor" timestamp="1583941731548">
+      <screen x="0" y="23" width="1280" height="777" />
+    </state>
+    <state x="128" y="23" key="SettingsEditor/0.23.1280.777@0.23.1280.777" timestamp="1583941731548" />
+    <state x="489" y="290" key="com.intellij.ide.util.TipDialog" timestamp="1583663931882">
+      <screen x="67" y="27" width="1533" height="873" />
+    </state>
+    <state x="489" y="290" key="com.intellij.ide.util.TipDialog/67.27.1533.873@67.27.1533.873" timestamp="1583663931882" />
+    <state x="496" y="212" width="672" height="678" key="search.everywhere.popup" timestamp="1583608674908">
+      <screen x="67" y="27" width="1533" height="873" />
+    </state>
+    <state x="496" y="212" width="672" height="678" key="search.everywhere.popup/67.27.1533.873@67.27.1533.873" timestamp="1583608674908" />
+  </component>
+</project>

@@ -1,0 +1,11 @@
+[0m[[0m[0mdebug[0m] [0m[0mPackaging /home/luigi/IdeaProjects/portoIterSeq/target/scala-2.13/portoiterseq_2.13-0.1.jar ...[0m
+[0m[[0m[0mdebug[0m] [0m[0mInput file mappings:[0m
+[0m[[0m[0mdebug[0m] [0m[0m	id3[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /home/luigi/IdeaProjects/portoIterSeq/target/scala-2.13/classes/id3[0m
+[0m[[0m[0mdebug[0m] [0m[0m	id3/ID3.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /home/luigi/IdeaProjects/portoIterSeq/target/scala-2.13/classes/id3/ID3.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	id3/ID3$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /home/luigi/IdeaProjects/portoIterSeq/target/scala-2.13/classes/id3/ID3$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	id3/Node.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /home/luigi/IdeaProjects/portoIterSeq/target/scala-2.13/classes/id3/Node.class[0m
+[0m[[0m[0mdebug[0m] [0m[0mDone packaging.[0m

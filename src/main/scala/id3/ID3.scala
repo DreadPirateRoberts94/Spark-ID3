@@ -27,7 +27,7 @@ object ID3 {
     //algorithm setup
     val tree = mutable.HashMap.empty[Int, Node]
     //create root
-    val root = new Node(attributes.size-1, id=0, -1, attributes)
+    val root = new Node(values.values.map(_.size).max, id=0, -1, attributes)
     //add root
     tree(0) = root
     var nodesToProcess = List[Node](root)
