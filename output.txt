@@ -1,4 +1,4 @@
-Elapsed time: 4.07615573
+Elapsed time: 4.149483339
 
 ---new tree---
 

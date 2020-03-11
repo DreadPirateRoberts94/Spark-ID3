@@ -5,8 +5,8 @@ import scala.collection.mutable
 
 object ID3 {
   //type alias
-  type classCountLevel1 = mutable.HashMap[Int, mutable.HashMap[String, mutable.HashMap[String, Int]]]
-  type classCountLevel2 = mutable.HashMap[String, mutable.HashMap[String, Int]]
+  type classCountLevel1 = mutable.HashMap[Int, classCountLevel2]
+  type classCountLevel2 = mutable.HashMap[String, classCountLevel3]
   type classCountLevel3 = mutable.HashMap[String, Int]
 
   def main(args: Array[String]): Unit ={
